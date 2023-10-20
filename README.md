@@ -21,3 +21,7 @@ Disimpulkan bahwa....
 
 
 Rekomendasi
+
+
+
+Terimakasih.
