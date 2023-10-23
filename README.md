@@ -1,8 +1,8 @@
-# Final Project Data Science MSIB Batch 5
+## Final Project Data Science MSIB Batch 5
 
 <div align="center">
   <a href="https://github.com/HafiizhTH/FinalProject_Kelompok1A/blob/main/Image/Data_Wizard%20-%203.png">
-    <img src="Image/Data_Wizard_3.png" alt="Logo" width="300">
+    <img src="Image/Data_Wizard_3.png" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Data Wizard-Kelompok1A</h3>
@@ -16,7 +16,7 @@
   </p>
 </div>
 
-## Table of Contents
+### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Feature](#Feature)
@@ -27,19 +27,19 @@
 2. [Roadmap](#Roadmap)
 2. [Note](#Note)
 
-## Introduction
+### Introduction
 
-## Feature
+### Feature
 
-## Usage
+### Usage
 
-## Installtion
+### Installtion
 
-## Contributing
+### Contributing
 
-## Feature
+### Feature
 
-## Roadmap
+### Roadmap
 
-## Note
+### Note
 
