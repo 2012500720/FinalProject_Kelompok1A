@@ -48,6 +48,7 @@ To get started with our project, follow these installation steps:
 ```bash 
 git clone https://github.com/HafiizhTH/FinalProject_Kelompok1A.git
 ```
+2. To access the dataset we used, please [click here](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior).
 
 ### Contributing
 We welcome contributions from the community. If you want to get involved in our project, follow these steps:
