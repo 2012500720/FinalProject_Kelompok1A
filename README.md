@@ -35,7 +35,7 @@ The project performs various features, such as:
 
 1. Data Collection: We acquire financial data from Kaggle, which serves as the foundation for our machine learning model.
 2. Visualization: We visualize the results and key insights to make the model's predictions more interpretable.
-3. Data Preprocessing: We clean, transform, and prepare the dataset for model training. 
+3. Data Preprocessing: We clean, transform, and prepare the dataset for model training.
 4. Machine Learning Model: We build, train, and optimize a predictive model that evaluates loan default risk.
 5. Evaluation Metrics: We assess the model's performance using relevant metrics like accuracy, precision, and recall.
 6. Documentation: This readme serves as part of our documentation, providing an overview of the project.
@@ -65,7 +65,6 @@ Our project has several development steps planned. Some steps in the project roa
 1. Extracting additional insights from data through deeper visualization and analysis.
 2. Model customization and prediction performance improvement.
 3. Integration with additional data sources to increase prediction accuracy.
-
 
 ### Note
 
