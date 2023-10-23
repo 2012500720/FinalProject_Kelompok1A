@@ -30,6 +30,7 @@
 8. [Note](#Note)
 
 ### Introduction
+This project is a group project called Data Wizard which focuses on the topic of loan prediction. This project aims to build a machine learning model that can predict whether someone will be at risk of loan default or not. This model will be built using a dataset sourced from Kaggle.
 
 ### Feature
 
