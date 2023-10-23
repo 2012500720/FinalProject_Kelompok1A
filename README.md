@@ -1,5 +1,7 @@
 ## Final Project Data Science MSIB Batch 5
 
+<br>
+
 <div align="center">
   <a href="https://github.com/HafiizhTH/FinalProject_Kelompok1A/blob/main/Image/Data_Wizard%20-%203.png">
     <img src="Image/Data_Wizard_3.png" alt="Logo" width="200">
@@ -9,7 +11,7 @@
 
   <p align="center">
     All information related to the MSIB batch 5 data science final assignment at Rakamin Academy
-    <br />
+    <br>
     <a href="https://drive.google.com/drive/folders/1SdD0nkZDQ4u5lldXozh9s1V_qsKEj22-">
         <strong>Kick Off Final Project >></strong>
       </a>
