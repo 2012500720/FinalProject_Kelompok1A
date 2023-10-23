@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/HafiizhTH/FinalProject_Kelompok1A/blob/main/Image/Data_Wizard.png">
-    <img src="images/logo.png" alt="Logo" width="400" hight="80">
+    <img src="Image/Data_Wizard.png" alt="Logo" width="400" hight="80">
   </a>
 
   <h3 align="center">Data Wizard-Kelompok1A</h3>
