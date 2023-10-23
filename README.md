@@ -1,15 +1,23 @@
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-# Project Name
+  <h3 align="center">Data Wizard-Kelompok1A</h3>
 
-The Amazing Weather App
-
-![Weather App Logo](images/logo.png)
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/weather-app)](https://github.com/yourusername/weather-app/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/weather-app)](https://github.com/yourusername/weather-app/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/weather-app)](https://github.com/yourusername/weather-app/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/weather-app)](https://github.com/yourusername/weather-app/pulls)
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/">View Demo</a>
+    ·
+    <a href="https://github.com/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/issues">Request Feature</a>
+  </p>
+</div>
 
 ## Table of Contents
 
