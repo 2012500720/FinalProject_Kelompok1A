@@ -1,7 +1,7 @@
-#Final Project Data Science MSIB Batch 5
+# Final Project Data Science MSIB Batch 5
 
 <div align="center">
-  <a href="Image/Data_Wizard.png">
+  <a href="https://github.com/HafiizhTH/FinalProject_Kelompok1A/blob/main/Image/Data_Wizard.png">
     <img src="images/logo.png" alt="Logo" width="400" hight="80">
   </a>
 
