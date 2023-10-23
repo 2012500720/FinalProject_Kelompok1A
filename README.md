@@ -12,7 +12,7 @@
   <p align="center">
     All information related to the MSIB batch 5 data science final assignment at Rakamin Academy
     <br>
-    <a href="https://drive.google.com/drive/folders/1SdD0nkZDQ4u5lldXozh9s1V_qsKEj22-">
+    <a href="https://drive.google.com/file/d/1QJ3XaEeUPJBVdyxxKAninCd4ZjdiO7gt/view?usp=share_link">
         <strong>Kick Off Final Project >></strong>
       </a>
   </p>
@@ -22,12 +22,12 @@
 
 1. [Introduction](#introduction)
 2. [Feature](#Feature)
-2. [Installtion](#Installtion)
-2. [Usage](#Usage)
-2. [Contributing](#Contributing)
-2. [Feature](#Feature)
-2. [Roadmap](#Roadmap)
-2. [Note](#Note)
+3. [Installtion](#Installtion)
+4. [Usage](#Usage)
+5. [Contributing](#Contributing)
+6. [Feature](#Feature)
+7. [Roadmap](#Roadmap)
+8. [Note](#Note)
 
 ### Introduction
 
