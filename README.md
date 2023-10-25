@@ -34,10 +34,10 @@ This project is a group project called Data Wizard which focuses on the topic of
 The project performs various features, such as:
 
 1. Data Collection: We acquire financial data from Kaggle, which serves as the foundation for our machine learning model.
-2. Visualization: We visualize the results and key insights to make the model's predictions more interpretable.
+2. Data Understanding: we carry out Exploratory Data Analysis, and create business insights
 3. Data Preprocessing: We clean, transform, and prepare the dataset for model training.
 4. Machine Learning Model: We build, train, and optimize a predictive model that evaluates loan default risk.
-5. Evaluation Metrics: We assess the model's performance using relevant metrics like accuracy, precision, and recall.
+5. Evaluation: We assess the model's performance using relevant metrics like accuracy, precision, and recall.
 6. Documentation: This readme serves as part of our documentation, providing an overview of the project.
 
 ### Installation
