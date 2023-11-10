@@ -67,9 +67,6 @@ Our project has several development steps planned. Some steps in the project roa
 3. Integration with additional data sources to increase prediction accuracy.
 
 ### Note
-Member contribution: 
-1. Hafiiz Taufiqul Hakim
-2. Silvia
-3. Sodikur
+
 
 
