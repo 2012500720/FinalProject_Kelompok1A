@@ -45,9 +45,9 @@ To get started with our project, follow these installation steps:
 
 1. Clone the project repository from our GitHub repository: 
 
-```bash 
+bash 
 git clone https://github.com/HafiizhTH/FinalProject_Kelompok1A.git
-```
+
 2. To access the dataset we used, please [click here](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior).
 
 ### Contributing
